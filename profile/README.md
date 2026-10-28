@@ -59,23 +59,18 @@ AI 에이전트 프로젝트를 업로드하면 **코드 취약점과 도구 권
   <tr>
     <td align="center" width="150">
       <a href="https://github.com/dkdlvhs"><img src="https://github.com/dkdlvhs.png?size=120" width="90" /><br /><b>김규현</b></a><br />
-      <sub>PM · Frontend</sub>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/2heunxun"><img src="https://github.com/2heunxun.png?size=120" width="90" /><br /><b>유승헌</b></a><br />
-      <sub>Backend</sub>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/cres17"><img src="https://github.com/cres17.png?size=120" width="90" /><br /><b>문준석</b></a><br />
-      <sub>Agent Flow</sub>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/nawonpp"><img src="https://github.com/nawonpp.png?size=120" width="90" /><br /><b>박나원</b></a><br />
-      <sub>RAG · Embedding</sub>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/younheejae"><img src="https://github.com/younheejae.png?size=120" width="90" /><br /><b>윤희재</b></a><br />
-      <sub>QA</sub>
     </td>
   </tr>
 </table>
